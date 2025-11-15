@@ -25,3 +25,5 @@ if gender.lower() == "m":
 else:
     bmi()
     bmr_female()
+def bk():
+    print('Beka')    
